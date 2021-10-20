@@ -19,6 +19,6 @@ It can be separate the data into train and test, the train set is 30% of our ori
 Linear Regression, Polynomial Regression, k-Nearest Neighbors, Gradient Boosting Regressor, Decision Tree Regressor and Random Forests. all models generally perform well, there is no one to give us bad results, but Random Forests have the best possible performance.
 
 ## Tools
-Numpy and Pandas for data manipulation
-Matplotlib and Seaborn for plotting
+Numpy and Pandas for data manipulation..
+Matplotlib and Seaborn for plotting..
 Scikit-learn for modeling
