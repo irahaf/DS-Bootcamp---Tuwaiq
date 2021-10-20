@@ -15,7 +15,7 @@ The columns include an index number of each patient, his age, his gender, the du
 
 ## Algorithm 
 It can be separate the data into train and test, the train set is 30% of our original data set. Then divide the features, and select subset of important features to work with it. 
-*Models:*
+- Models:
 Linear Regression, Polynomial Regression, k-Nearest Neighbors, Gradient Boosting Regressor, Decision Tree Regressor and Random Forests. all models generally perform well, there is no one to give us bad results, but Random Forests have the best possible performance.
 
 ## Tools
