@@ -1,7 +1,7 @@
 #Online Data Science Bootcamps for SDAIA Academy 
 
-#Telemonitoring of Parkinson's disease progression 
-# Comparing between machine learning techniques that can be used for improve the prediction of Parkinson's disease.
+# Telemonitoring of Parkinson's disease progression 
+#Comparing between machine learning techniques that can be used for improve the prediction of Parkinson's disease.
 
 ##Abstract 
 The goal of this project is to improve prediction of Parkinson's disease (PD) progression, which is needed to support clinical decision-making and to accelerate research trials. I worked with data provided in this link (https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring), I will use machine learning models to achieve promising results for this problem. 
